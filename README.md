@@ -7,6 +7,7 @@ I'm passionate about the automotive world, and I really like programing and data
 - I study at <a href="https://www.google.com/maps/place/IUT+de+Lannion+-+Université+de+Rennes/@48.758313,-3.451812,15z/data=!4m6!3m5!1s0x48122c034b5275af:0x355e62516b08c22f!8m2!3d48.758313!4d-3.451812!16s%2Fg%2F122pk8dh?entry=ttu">IUT de Lannion</a> in Brittany, France
 - I Like playing Video Games (focus on Racing Games), listening to music and inform on latest car related news
 - I'm trying to learn JavaScript
+- Contact Me: pierig.malnoe1@orange.fr
 
 
 <h2> Skills </h2>
