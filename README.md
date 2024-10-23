@@ -1,26 +1,23 @@
-# Hello everybody, I'm Pierig Malnoë
+<h1 align="center">Greetings 👋, I'm Pierig Malnoë</h1>
+<h3 align="center">A guy passionate by Automotive lost in the wonders of Computer Science, Data and A.I.</h3>
 
-Student in Computer Science
+- 🔭 I’m currently working on a Online Quizz game with a Friend, it's named **Kova**
 
-I'm passionate about the automotive world, and I really like programing and database management
+- 🌱 I’m currently learning **Rust**
 
-- I study at <a href="https://www.google.com/maps/place/IUT+de+Lannion+-+Université+de+Rennes/@48.758313,-3.451812,15z/data=!4m6!3m5!1s0x48122c034b5275af:0x355e62516b08c22f!8m2!3d48.758313!4d-3.451812!16s%2Fg%2F122pk8dh?entry=ttu">IUT de Lannion</a> in Brittany, France
-- I Like playing Video Games (focus on Racing Games), listening to music and inform on latest car related news
-- I'm trying to learn JavaScript
-- Contact Me: pierig.malnoe1@orange.fr
+- 🤝 I’m looking for help with **JavaScript and my sanity**
 
+- 📫 How to reach me **malnoepierig@gmail.com**
 
-<h2> Skills </h2>
+- ⚡ Fun fact **Bugatti is French**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> </a>
-<a href="https://devdocs.io/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="36" height="36" alt="HTML"></a>
-<a href="https://devdocs.io/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="36" height="36" alt="CSS"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="36" height="36" alt="Java"></a>
-<a href="https://openjfx.io/"><img src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" width="36" height="36" alt="JavaFX"></a>
-<a href="https://www.lua.org/docs.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" width="36" height="36" alt="Linux" ></a>
-<a href="https://www.lua.org/docs.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/240px-Lua-Logo.svg.png" width="36" height="36" alt="Lua" ></a>
-<a href="https://www.php.net"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="36" height="36" alt="PHP"></a>
-<a href="https://docs.python.org/3/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png" width="36" height="36" alt="Python"></a>
-<a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"></a>
-<a href="https://www.sqlite.org/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="67" height="36" alt="SQLite"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomse30&show_icons=true&locale=en&layout=compact" alt="venomse30" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomse30&show_icons=true&locale=en" alt="venomse30" /></p>
